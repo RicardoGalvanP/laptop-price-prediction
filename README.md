@@ -3,6 +3,12 @@
 Feature engineering project to predict computer prices based on hardware 
 specifications, built as part of a 4-person team.
 
+### Version
+
+*en: English
+
+*esp: Spanish
+
 ## Problem Statement
 
 With thousands of laptop and desktop configurations on the market, pricing is 
