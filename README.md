@@ -7,7 +7,7 @@ specifications, built as part of a 4-person team.
 
 *en: English
 
-*esp: Spanish
+*es: Spanish
 
 ## Problem Statement
 
